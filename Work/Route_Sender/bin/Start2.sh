@@ -7,13 +7,13 @@
 #Define Directories
 #DASHContent=ToS720p_0_5
 #DASHContent2=Elysium720p_0_5
-DASHContent=ToSLC_0_5
-DASHContent2=ElysiumLC_0_5
+DASHContent=ToS_1_0
+DASHContent2=Elysium_1_0
 
 #if [ "$#" -gt 0 ] && [ "$1" -eq 1000 ]
 #then
-  DASHContent=Hotel
-  DASHContent2=Wave
+#  DASHContent=Hotel
+#  DASHContent2=Wave
 #fi
 
 FLUTESender=.
